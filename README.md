@@ -1,3 +1,4 @@
 # Richard
 meu nome é Richard gomes
-hello
+Estou aluno no alura
+veja meus projetos
